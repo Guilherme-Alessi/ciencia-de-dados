@@ -1,4 +1,4 @@
-const url = 'https://github.com/silviosnjr/CienciaDeDados-CriandoGraficosDinamicosComJavaScript/tree/Aula01/esportes'
+const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json'
 
 async function visualizarInformacoesGlobais() {
 
