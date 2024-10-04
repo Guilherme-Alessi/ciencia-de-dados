@@ -5,7 +5,7 @@
     --secondary-color: #C8ACD6;
     --tipo-fonte: "Kanit", sans-serif;
 }
-boy{
+body{
     background-color: var(--bg-color);
     color: var(--primary-color);
     font-family: var(--tipo-fonte);
