@@ -13,7 +13,7 @@ body{
     margin: 0;
 }
 header{
-    background-color: var(--secondary-color);
+    background-color: var(--primary-color);
     text-align: center;
     padding: 1px;
 }
@@ -29,5 +29,5 @@ nav{
 }
 nav a{
     text-decoration: none;
-    color: var(--bg-color);
+    color: var(--secondary-color);
 }
