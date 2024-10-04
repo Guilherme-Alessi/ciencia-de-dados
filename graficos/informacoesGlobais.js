@@ -1,3 +1,5 @@
+
+
 async function visualizarInformacoesGlobais() {
 
         const res = await fetch(url)
